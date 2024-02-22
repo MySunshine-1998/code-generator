@@ -1,11 +1,3 @@
-/*
- * @Author: sunyue
- * @Date: 2023-08-28 13:21:37
- * @LastEditors: sunyue
- * @LastEditTime: 2023-09-25 16:44:16
- * @Description: 描述
- * Copyright (c) 2023 by 中国科学院软件研究所, All Rights Reserved. 
- */
 const colors = require('colors');
 const axios = require('axios');
 const inquirer = require('inquirer');
